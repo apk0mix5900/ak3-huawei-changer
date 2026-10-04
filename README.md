@@ -165,7 +165,7 @@ Examples:
 ```
 ak3-hw-p9-eva          Huawei P9 (codename eva)
 ak3-hw-p10p-victoria   Huawei P10 Plus (codename victoria)
-ak3-hn-frd             Honor 8 (codename frd)
+ak3-hn-Faraday             Honor 8 (codename Faraday)
 ```
 
 · ak3 — standard prefix, indicates this is a ready-to-flash AK3
