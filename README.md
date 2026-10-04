@@ -4,9 +4,8 @@
 
 # ak3-huawei-changer
 Turn any standard AnyKernel3 into a Huawei/Honor split-boot compatible AK3
-<p align="center">
-  <img src="png/Huawei.png" alt="Huawei" width="300">
-</p>
+
+![Huawei](png/Huawei.png)
 
 Turn a standard AnyKernel3 into a Huawei / Honor AK3 — with support for split-boot (kernel + ramdisk) partition layouts.
 
